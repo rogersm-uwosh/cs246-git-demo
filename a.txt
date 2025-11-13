@@ -3,3 +3,4 @@ line two
 line four
 line five
 line six
+line seven
